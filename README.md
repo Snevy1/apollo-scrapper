@@ -28,8 +28,8 @@ This repository contains a Python-based web scraper designed to automate the ext
    cd apollo-web-scraper
 
 2. python -m venv venv
-   source venv/bin/activate   # On macOS/Linux
-   venv\Scripts\activate      # On Windows
+  - source venv/bin/activate   # On macOS/Linux
+  - venv\Scripts\activate      # On Windows
 3. pip install -r requirements.txt 
 4. - Download and set up the Chrome WebDriver that matches your Chrome version.
 5. - Update the following in the code:
