@@ -15,8 +15,8 @@ import undetected_chromedriver as uc
 from selenium_stealth import stealth
 
 # --- Configuration Variables ---
-EMAIL = 'simiyunevily@gmail.com'
-PASSWORD = 'EGERTON2020'
+EMAIL = ''
+PASSWORD = ''
 
 # Instead of full URL with filters, use base URL and configure filters separately
 BASE_URL = "https://app.apollo.io/#/people"
